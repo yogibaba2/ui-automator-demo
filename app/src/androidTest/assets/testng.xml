@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UIAutomatorSuite">
+    <test name="UIAutomatorTest">
+        <classes>
+            <class name="com.example.myapplication.tests.testng.CameraTest"/>
+        </classes>
+    </test>
+</suite>
